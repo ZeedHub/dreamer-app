@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557291153821",
+    "project_id": "dreamer-106dd",
+    "storage_bucket": "dreamer-106dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557291153821:android:2992c62638f58945052774",
+        "android_client_info": {
+          "package_name": "com.zeedhub.dreamer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw034lsKmA-rRGnfxBBVlJR5t2MCjHWEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
